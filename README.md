@@ -8,5 +8,5 @@
 **Tecnologias que eu dominio**
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/ width="40px" height="40" align="center" alt="HTML5">      
 </div>
