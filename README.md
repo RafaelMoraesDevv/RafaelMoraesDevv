@@ -6,6 +6,6 @@
 - 💰 Atualmemte trabalhando com Suporte ao Usuario ...
 
 <div>
-    **Tecnologias que eu dominio**
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/ width="60px" height="50" align="center" alt="HTML5">      
+    **Tecnologias que eu dominio** <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/ width="80px" height="70" align="center" alt="HTML5">      
 </div>
