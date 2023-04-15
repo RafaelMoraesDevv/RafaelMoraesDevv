@@ -13,3 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80px" height="70" align="center" alt="Figma"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="80px" height="70" align="center" alt="Bootstrap"/>     
 </div>
+
+<div>
+   <a href="https://www.linkedin.com/in/rafaeldossantosmoraes/" target="_blank"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
