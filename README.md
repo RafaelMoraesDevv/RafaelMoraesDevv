@@ -6,7 +6,7 @@
 - 💰 Atualmemte trabalhando com Suporte ao Usuario ...
 
 <div>
-   <h2><strong>Tecnologias que eu dominio</strong></h2> 
+   <h2><strong>Minha Skills</strong></h2> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="40" align="center" alt="HTML5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="40" align="center" alt="CSS3"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" height="40" align="center" alt="JavaScript"/>               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="60px" height="40" align="center" alt="Adobe XD"/>
