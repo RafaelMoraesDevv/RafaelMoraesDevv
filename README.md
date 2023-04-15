@@ -5,8 +5,7 @@
 - 🖥️ Estudando de tecnologia ...
 - 💰 Atualmemte trabalhando com Suporte ao Usuario ...
 
-**Tecnologias que eu dominio**
-
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/ width="40px" height="40" align="center" alt="HTML5">      
+    **Tecnologias que eu dominio**
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/ width="60px" height="50" align="center" alt="HTML5">      
 </div>
